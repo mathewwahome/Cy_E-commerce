@@ -20,7 +20,7 @@ class SettingTableSeeder extends Seeder
             'logo'=>'logo.jpg',
             'address'=>"115 Test Street, Test Country",
             'email'=>"tumattachment.com",
-            'phone'=>"1234567777",
+            'phone'=>"+254788888888",
         );
         DB::table('settings')->insert($data);
     }
