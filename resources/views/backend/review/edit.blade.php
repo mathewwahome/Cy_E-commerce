@@ -28,7 +28,7 @@
       <button type="submit" class="btn btn-primary">Update</button>
     </form>
   </div>
-</div><!-- Visit 'codeastro' for more projects -->
+</div><!-- Visit 'tumattachment' for more projects -->
 @endsection
 
 @push('styles')

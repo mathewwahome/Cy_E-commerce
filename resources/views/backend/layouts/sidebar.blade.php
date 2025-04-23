@@ -27,7 +27,7 @@
     </div>
 
     <!-- Nav Item - Pages Collapse Menu -->
-    <!-- Visit 'codeastro' for more projects -->
+    <!-- Visit 'tumattachment' for more projects -->
     <!-- Nav Item - Charts -->
     <li class="nav-item">
         <a class="nav-link" href="{{route('file-manager')}}">
@@ -128,10 +128,10 @@
             <i class="fas fa-comments"></i>
             <span>Reviews</span></a>
     </li>
-    
+
 
     <!-- Divider -->
-    <!-- Visit 'codeastro' for more projects -->
+    <!-- Visit 'tumattachment' for more projects -->
     <hr class="sidebar-divider">
 
     <!-- Heading -->

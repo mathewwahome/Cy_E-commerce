@@ -4,7 +4,7 @@
 <div class="container-fluid">
     @include('backend.layouts.notification')
     <!-- Page Heading -->
-    <!-- Visit 'codeastro' for more projects -->
+    <!-- Visit 'tumattachment' for more projects -->
     <div class="d-sm-flex align-items-center justify-content-between mb-4">
       <h1 class="h3 mb-0 text-gray-800">Dashboard</h1>
     </div>
@@ -23,7 +23,7 @@
                   <div class="col-auto">
                     <div class="h5 mb-0 mr-3 font-weight-bold text-gray-800">{{\App\Models\Order::countActiveOrder()}}</div>
                   </div>
-                  
+
                 </div>
               </div>
               <div class="col-auto">
@@ -98,7 +98,7 @@
                   <div class="col-auto">
                     <div class="h5 mb-0 mr-3 font-weight-bold text-gray-800">{{\App\Models\Order::countNewReceivedOrder()}}</div>
                   </div>
-                  
+
                 </div>
               </div>
               <div class="col-auto">
@@ -119,7 +119,7 @@
                   <div class="col-auto">
                     <div class="h5 mb-0 mr-3 font-weight-bold text-gray-800">{{\App\Models\Order::countProcessingOrder()}}</div>
                   </div>
-                  
+
                 </div>
               </div>
               <div class="col-auto">
@@ -140,7 +140,7 @@
                   <div class="col-auto">
                     <div class="h5 mb-0 mr-3 font-weight-bold text-gray-800">{{\App\Models\Order::countDeliveredOrder()}}</div>
                   </div>
-                  
+
                 </div>
               </div>
               <div class="col-auto">
@@ -161,7 +161,7 @@
                   <div class="col-auto">
                     <div class="h5 mb-0 mr-3 font-weight-bold text-gray-800">{{\App\Models\Order::countCancelledOrder()}}</div>
                   </div>
-                  
+
                 </div>
               </div>
               <div class="col-auto">
@@ -180,7 +180,7 @@
           <!-- Card Header - Dropdown -->
           <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
             <h6 class="m-0 font-weight-bold text-primary">Earnings Overview</h6>
-            
+
           </div>
           <!-- Card Body -->
           <div class="card-body">
@@ -190,7 +190,7 @@
           </div>
         </div>
       </div>
-    
+
       <!-- Pie Chart -->
       <div class="col-xl-4 col-lg-5">
         <div class="card shadow mb-4">
@@ -206,7 +206,7 @@
       </div>
     </div>
     <!-- Content Row -->
-    <!-- Visit 'codeastro' for more projects -->
+    <!-- Visit 'tumattachment' for more projects -->
   </div>
 @endsection
 

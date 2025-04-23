@@ -1,4 +1,4 @@
-**Log on to codeastro.com for more projects!***
+**Log on to tumattachment.com for more projects!***
 
 
 **Developed by Prajwal Rai**
@@ -10,11 +10,11 @@
 ---Admin Login Details---
 
 Email   : admin@mail.com
-Password: codeastro.com
+Password: tumattachment.com
 
 --Customer Login Details---
 Email   : customer@mail.com
-Password: codeastro.com
+Password: tumattachment.com
 
 
 **Check the Website's Post Page for all the Installation Instructions**
